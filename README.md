@@ -1,1 +1,0 @@
-# DRF-snippet-app
